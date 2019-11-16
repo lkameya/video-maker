@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: video_maker
+  pool: 5
+  username: lkameya
+  password:
+  host: localhost
